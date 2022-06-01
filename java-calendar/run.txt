@@ -1,0 +1,3 @@
+java --module-path /Users/jackluft/Desktop/javafx-sdk-14.0.1/lib --add-modules javafx.controls main
+
+javac --module-path /Users/jackluft/Desktop/javafx-sdk-14.0.1/lib --add-modules javafx.controls SideBar.java
